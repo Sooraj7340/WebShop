@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-27T16:49:36 IST" name="Suite" finished-at="2024-08-27T16:50:05 IST" duration-ms="28171">
+    <groups>
+    </groups>
+    <test started-at="2024-08-27T16:49:36 IST" name="Test" finished-at="2024-08-27T16:50:05 IST" duration-ms="28171">
+      <class name="webshop_test.RegisterTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:webshop_test.RegisterTest@7c137fd5]" started-at="2024-08-27T16:49:37 IST" name="beforeTest" finished-at="2024-08-27T16:49:43 IST" duration-ms="6601" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="registerValid()[pri:0, instance:webshop_test.RegisterTest@7c137fd5]" started-at="2024-08-27T16:49:43 IST" name="registerValid" finished-at="2024-08-27T16:49:47 IST" duration-ms="3175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerValid -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:webshop_test.RegisterTest@7c137fd5]" started-at="2024-08-27T16:50:04 IST" name="afterTest" finished-at="2024-08-27T16:50:05 IST" duration-ms="331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- webshop_test.RegisterTest -->
+      <class name="webshop_test.LoginTest">
+        <test-method signature="login()[pri:0, instance:webshop_test.LoginTest@3e08ff24]" started-at="2024-08-27T16:49:47 IST" name="login" finished-at="2024-08-27T16:49:50 IST" duration-ms="3533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- webshop_test.LoginTest -->
+      <class name="webshop_test.LogoFooterTest">
+        <test-method signature="logoFooterValid()[pri:0, instance:webshop_test.LogoFooterTest@8462f31]" started-at="2024-08-27T16:50:04 IST" name="logoFooterValid" finished-at="2024-08-27T16:50:04 IST" duration-ms="128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoFooterValid -->
+      </class> <!-- webshop_test.LogoFooterTest -->
+      <class name="webshop_test.ProductTest">
+        <test-method signature="orderPlace()[pri:0, instance:webshop_test.ProductTest@4d1c005e]" started-at="2024-08-27T16:49:50 IST" name="orderPlace" finished-at="2024-08-27T16:50:04 IST" duration-ms="13991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderPlace -->
+      </class> <!-- webshop_test.ProductTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

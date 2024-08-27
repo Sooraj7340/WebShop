@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+<listeners>
+	<listener class-name="listeners.ExtentListeners"></listener>
+</listeners>
+  <test name="Test">
+    <classes>
+      <class name="webshop_test.RegisterTest"/>
+      <class name="webshop_test.LoginTest"/>
+      <class name="webshop_test.ProductTest"/>
+      <class name="webshop_test.LogoFooterTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
